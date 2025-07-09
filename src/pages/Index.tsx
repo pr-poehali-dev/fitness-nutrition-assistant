@@ -28,7 +28,7 @@ const Index = () => {
 
   const stats = [
     { number: "200+", label: "Довольных клиентов" },
-    { number: "5", label: "Лет опыта" },
+    { number: "13", label: "Лет опыта" },
     { number: "95%", label: "Достигают результат" },
     { number: "24/7", label: "Поддержка" },
   ];
@@ -78,7 +78,7 @@ const Index = () => {
                   className="rounded-lg shadow-2xl max-w-md w-full"
                 />
                 <div className="absolute -bottom-6 -right-6 bg-white text-primary p-4 rounded-lg shadow-lg">
-                  <div className="text-2xl font-bold">5+</div>
+                  <div className="text-2xl font-bold">13+</div>
                   <div className="text-sm">лет опыта</div>
                 </div>
               </div>
