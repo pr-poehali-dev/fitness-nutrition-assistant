@@ -27,7 +27,7 @@ const Index = () => {
   ];
 
   const stats = [
-    { number: "200+", label: "Довольных клиентов" },
+    { number: "1000+", label: "Довольных клиентов" },
     { number: "13", label: "Лет опыта" },
     { number: "95%", label: "Достигают результат" },
     { number: "24/7", label: "Поддержка" },
